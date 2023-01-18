@@ -57,15 +57,15 @@ print(Norm_of_matrix)
 <br>
 
 ### 2-Norm of a Matrix
-<br>
 <br>![image](https://user-images.githubusercontent.com/118361409/213215883-448e559a-8bae-4811-8839-9a1baf347efb.png)
 
 <br>
+<br>
 
 ### Infinity Norm of a Matrix
-<br>
 <br>![image](https://user-images.githubusercontent.com/118361409/213216019-77ae82b4-6005-490d-b2b0-efacfb2ceb62.png)
 
+<br>
 <br>
 
 ## Result
